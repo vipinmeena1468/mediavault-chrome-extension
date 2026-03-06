@@ -10,8 +10,8 @@ It allows bulk selection and ZIP download for faster media collection.
 
 - Extracts:
   - <img> images (including srcset)
-  - <video> media
-  - <audio> media
+  - <video> Video
+  - <audio> Audio
   - <source> elements
   - CSS background images
   - Media links from <a> tags
